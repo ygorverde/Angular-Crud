@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "Caneta BIC",
+      "price": "2.99",
+      "id": 1
+    },
+    {
+      "name": "Papel Impressão A4 ",
+      "price": "59.90",
+      "id": 2
+    }
+  ]
+}
